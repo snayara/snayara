@@ -4,6 +4,9 @@
 
 ![Nay's GitHub stats](https://github-readme-stats.vercel.app/api?username=snayara&theme=radical&show_icons=true)
 
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snayara&hide_progress=true)-->
+
+
 ## Skills
 
 <div  style = "display: inline_block"><br/>
